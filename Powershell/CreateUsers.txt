@@ -1,0 +1,20 @@
+$users = get-content C:\Users.txt
+
+
+Foreach($user in $users){
+
+$password = "Pa$$w0rd"
+
+$objOu = [ADSI]"WinNT://$computer"
+
+$objUser = $objOU.Create("User", $user)
+
+$objUser.setpassword($password)
+
+$objUser.SetInfo()
+
+$objUser.description = ""
+
+$objUser.SetInfo()
+
+}

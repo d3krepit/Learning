@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="32b4ee48-0122-4c92-b064-c5a15b5d5813" Scope="Site" Title="SPO_DisplayCurrentUserInfo Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SPO_DisplayCurrentUserInfo\Elements.xml" />
+    <ElementFile Location="SPO_DisplayCurrentUserInfo\SPO_DisplayCurrentUserInfo.webpart" />
+  </ElementManifests>
+</Feature>

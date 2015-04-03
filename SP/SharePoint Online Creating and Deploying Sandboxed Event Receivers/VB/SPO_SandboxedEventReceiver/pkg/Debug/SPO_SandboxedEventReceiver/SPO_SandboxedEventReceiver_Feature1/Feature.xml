@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Event Receiver Feature" Id="59ba674d-cfdb-4b0e-8dd5-3323494aad6d" Scope="Web" Title="SPO_SandboxedEventReceiver Feature1">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="EventReceiver1\Elements.xml" />
+  </ElementManifests>
+</Feature>

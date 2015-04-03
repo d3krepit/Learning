@@ -1,0 +1,5 @@
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_UsingLINQQuerys\REST_UsingLINQQuerys\bin\Debug\REST_UsingLINQQuerys.exe
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_UsingLINQQuerys\REST_UsingLINQQuerys\bin\Debug\REST_UsingLINQQuerys.pdb
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_UsingLINQQuerys\REST_UsingLINQQuerys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_UsingLINQQuerys\REST_UsingLINQQuerys\obj\x86\Debug\REST_UsingLINQQuerys.exe
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_UsingLINQQuerys\REST_UsingLINQQuerys\obj\x86\Debug\REST_UsingLINQQuerys.pdb

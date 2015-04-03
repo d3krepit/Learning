@@ -1,0 +1,5 @@
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_QueryExcelDataRange\REST_QueryExcelDataRange\bin\Debug\REST_QueryExcelDataRange.exe
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_QueryExcelDataRange\REST_QueryExcelDataRange\bin\Debug\REST_QueryExcelDataRange.pdb
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_QueryExcelDataRange\REST_QueryExcelDataRange\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_QueryExcelDataRange\REST_QueryExcelDataRange\obj\x86\Debug\REST_QueryExcelDataRange.exe
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_QueryExcelDataRange\REST_QueryExcelDataRange\obj\x86\Debug\REST_QueryExcelDataRange.pdb

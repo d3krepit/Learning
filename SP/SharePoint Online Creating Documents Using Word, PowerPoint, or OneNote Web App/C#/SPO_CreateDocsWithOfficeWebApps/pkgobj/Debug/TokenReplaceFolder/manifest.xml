@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3dfda6fc-36ba-4df4-8b83-f5239029aefb" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SPO_CreateDocsWithOfficeWebApps.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SPO_CreateDocsWithOfficeWebApps_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

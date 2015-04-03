@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="2d902c18-39e1-4f7c-8eb2-e8a808c8af6e" Scope="Site" Title="SPO_CreateContentTypeAndList Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SPO_CreateContentTypeAndList\Elements.xml" />
+    <ElementFile Location="SPO_CreateContentTypeAndList\SPO_CreateContentTypeAndList.webpart" />
+  </ElementManifests>
+</Feature>

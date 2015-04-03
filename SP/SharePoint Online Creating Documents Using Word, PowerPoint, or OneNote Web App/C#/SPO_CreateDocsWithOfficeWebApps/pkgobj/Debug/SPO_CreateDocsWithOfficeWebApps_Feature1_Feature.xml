@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="48442038-15ff-4788-8e11-51263e60917f" Scope="Web" Title="SPO_CreateDocsWithOfficeWebApps Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SPO_DocCreatorList\Elements.xml" />
+    <ElementManifest Location="SPO_DocCreatorFiles\Elements.xml" />
+    <ElementFile Location="SPO_DocCreatorFiles\Blank OneNote Document.one" />
+    <ElementFile Location="SPO_DocCreatorFiles\Blank PowerPoint Presentation.pptx" />
+    <ElementFile Location="SPO_DocCreatorFiles\Blank Word Document.docx" />
+    <ElementFile Location="SPO_DocCreatorFiles\onenote_2010.png" />
+    <ElementFile Location="SPO_DocCreatorFiles\onenote_2010small.png" />
+    <ElementFile Location="SPO_DocCreatorFiles\powerpoint_2010.png" />
+    <ElementFile Location="SPO_DocCreatorFiles\powerpoint_2010small.png" />
+    <ElementFile Location="SPO_DocCreatorFiles\SPODocCreatorComponent.js" />
+    <ElementFile Location="SPO_DocCreatorFiles\SPODocCreatorPageComponent.js" />
+    <ElementFile Location="SPO_DocCreatorFiles\word_2010.png" />
+    <ElementFile Location="SPO_DocCreatorFiles\word_2010small.png" />
+    <ElementManifest Location="SPO_DocCreatorRibbon\Elements.xml" />
+  </ElementManifests>
+</Feature>

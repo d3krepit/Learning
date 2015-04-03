@@ -1,0 +1,5 @@
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_RetrieveASingleListItem\REST_RetrieveASingleListItem\bin\Debug\REST_RetrieveASingleListItem.exe
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_RetrieveASingleListItem\REST_RetrieveASingleListItem\bin\Debug\REST_RetrieveASingleListItem.pdb
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_RetrieveASingleListItem\REST_RetrieveASingleListItem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_RetrieveASingleListItem\REST_RetrieveASingleListItem\obj\x86\Debug\REST_RetrieveASingleListItem.exe
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\REST_RetrieveASingleListItem\REST_RetrieveASingleListItem\obj\x86\Debug\REST_RetrieveASingleListItem.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="104">
+      <Receiver>
+        <Name>EventReceiver1ItemAdded</Name>
+        <Type>ItemAdded</Type>
+        <Assembly>SPO_SandboxedEventReceiver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2fbf7a201cb08435</Assembly>
+        <Class>SPO_SandboxedEventReceiver.EventReceiver1</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+
+  </Receivers>
+</Elements>

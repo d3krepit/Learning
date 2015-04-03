@@ -1,0 +1,2 @@
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\SPO_AccessAWebService\SPO_AccessAWebService\bin\Debug\SPO_AccessAWebService.exe.config
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\SPO_AccessAWebService\SPO_AccessAWebService\obj\x86\Debug\ResolveAssemblyReference.cache

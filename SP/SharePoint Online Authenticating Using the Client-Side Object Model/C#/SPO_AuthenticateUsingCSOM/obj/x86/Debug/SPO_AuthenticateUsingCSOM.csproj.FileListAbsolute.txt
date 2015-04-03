@@ -1,0 +1,2 @@
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\SPO_AuthenticateUsingCSOM\SPO_AuthenticateUsingCSOM\bin\Debug\SPO_AuthenticateUsingCSOM.exe.config
+C:\SP 101 Code Samples\28SharePointCodeSamples\C#\SPO_AuthenticateUsingCSOM\SPO_AuthenticateUsingCSOM\obj\x86\Debug\ResolveAssemblyReference.cache

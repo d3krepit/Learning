@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="981bd263-0daf-4116-9fe0-2bcc1db31ffc" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SPO_DisplayCurrentUserInfo.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SPO_DisplayCurrentUserInfo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1d6fb7870602de1f" Namespace="SPO_DisplayCurrentUserInfo" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SPO_DisplayCurrentUserInfo_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

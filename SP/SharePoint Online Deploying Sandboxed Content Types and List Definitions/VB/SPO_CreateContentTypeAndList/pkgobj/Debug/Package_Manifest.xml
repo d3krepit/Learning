@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="762c531a-74ed-43b3-a3f7-b039633bc51e" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SPO_CreateContentTypeAndList.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SPO_CreateContentTypeAndList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=82785cb64eeaf069" Namespace="SPO_CreateContentTypeAndList" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SPO_CreateContentTypeAndList_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

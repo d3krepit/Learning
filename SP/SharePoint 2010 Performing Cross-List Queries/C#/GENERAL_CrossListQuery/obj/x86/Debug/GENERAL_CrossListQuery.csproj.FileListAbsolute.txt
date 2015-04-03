@@ -1,0 +1,2 @@
+C:\SP 101 Code Samples\Samples\GENERALSolutions\CS\GENERAL_CrossListQuery\GENERAL_CrossListQuery\bin\Debug\GENERAL_CrossListQuery.exe.config
+C:\SP 101 Code Samples\Samples\GENERALSolutions\CS\GENERAL_CrossListQuery\GENERAL_CrossListQuery\obj\x86\Debug\ResolveAssemblyReference.cache
